@@ -8,7 +8,7 @@ Here the links to some of the example apps I built with Flutter in the last mont
 -   [Starfield](https://frideosapps.github.io/flutter_starfield): a simple and “old” starfield (do you remember Windows 95? :-)) –  [repository](https://github.com/frideosapps/flutter_starfield)
 -   [Calcolatore Child-Pugh](https://github.com/frideosapps/childpugh)  (in the repo you can see thee branches, the "master" one is the app made with classic BLoC pattern, then two braches forse frideos package and rebuilder versions).
 -   [Classificazione pressione arteriosa](https://github.com/frideosapps/bloodpressure)
--   Quiz game ([frideos version](https://github.com/frideosapps/trivia_example), rebuilder version)
+-   Quiz game ([frideos package version](https://github.com/frideosapps/trivia_example), [rebuilder package version](https://github.com/frideosapps/trivia_rebuilder))
 -   [Pair game](https://github.com/frideosapps/pair_game)
 
 ----------
